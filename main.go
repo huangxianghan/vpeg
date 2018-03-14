@@ -1,4 +1,4 @@
-packet main
+package main
 
 func main() {
 }
