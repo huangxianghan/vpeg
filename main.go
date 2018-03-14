@@ -1,0 +1,4 @@
+packet main
+
+func main() {
+}
